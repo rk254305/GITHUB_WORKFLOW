@@ -9,6 +9,7 @@ Clone repo from server
 STEP 3:
 Make changes / create programs
 # write code of program and make changes
+#CHANGE DIRECTORY TO ADD 
 STEP 4:
 Add changes to the server 
 # git add . <for adding all directory> or use git add <filename> for adding file
